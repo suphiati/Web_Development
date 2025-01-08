@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(159, 212, 212);
+}
+
+.header{
+    color: brown;
+}
+
+[value="summary"]{
+    color: rgb(212, 237, 237);
+}
+
+.title h1{
+    color: blueviolet;
+}
+
+.myPhoto{
+    text-align: center;
+}
+
